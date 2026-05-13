@@ -1,0 +1,27 @@
+[
+    {
+        "nome" : "Vini Junior",
+        "idade" : "25 anos",
+        "data de nascimento": "12 de julho de 2000",
+        "altura": "1,76 m"
+    },
+    {
+        "nome" : "Neymar Junior",
+        "idade" : "34 anos",
+        "data de nascimento": "5 de fevereiro de 1992",
+        "altura": "1,75 m"
+    },
+    {
+        "nome" : "Cristiano Ronaldo",
+        "idade" : "41 anos",
+        "data de nascimento": "5 de fevereiro de 1985",
+        "altura": "1,87 m"
+    },
+    {
+        "nome" : "Lamine Yamal",
+        "idade" : "18 anos",
+        "data de nascimento": "13 de julho de 2007",
+        "altura": "1,80 m"
+    }
+
+]
